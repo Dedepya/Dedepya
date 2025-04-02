@@ -28,25 +28,25 @@ I'm a passionate software engineer and a Master's student in Computer Science at
 - Working on my Master’s thesis to build a model and website for Fake News Detection.
 
 ## 📚 I'm Learning:
-Architecting cloud-based solutions using AWS and Azure for enhanced scalability and performance.
-Advanced concepts in Machine Learning and AI.
-Swift and React Native for cross-platform mobile app development.
+- Architecting cloud-based solutions using AWS and Azure for enhanced scalability and performance.
+- Advanced concepts in Machine Learning and AI.
+- Swift and React Native for cross-platform mobile app development.
 
 ## 🌐 Connect with Me:
  [LinkedIn](https://www.linkedin.com/in/dedeepya-yarlagadda-45a29a18b)
 
 
 ## 🛠️ Tech Stack:
-Programming Languages: C# , C, C++, HTML, CSS, Java, Python, JavaScript, PHP, TypeScript, R
-Frameworks: ASP .NET, Bootstrap, AngularJS, ReactJS, NodeJS, Spring Boot, Pandas, NumPy, OpenCV, Flask, PyTorch, UI/UX
-Database and Tools: SQL, SQL Server, Mongo DB, Git, Docker, Kubernetes, Visual Studio, Postman, Microsoft Azure, SQLite
-Technologies & Software: Jira, AWS, GCP, Microservice Architecture, MVC, SDLC, Scrum, Github, MS Word/ PPT/ Excel, Adobe
+- Programming Languages: C# , C, C++, HTML, CSS, Java, Python, JavaScript, PHP, TypeScript, R
+- Frameworks: ASP .NET, Bootstrap, AngularJS, ReactJS, NodeJS, Spring Boot, Pandas, NumPy, OpenCV, Flask, PyTorch, UI/UX
+- Database and Tools: SQL, SQL Server, Mongo DB, Git, Docker, Kubernetes, Visual Studio, Postman, Microsoft Azure, SQLite
+- Technologies & Software: Jira, AWS, GCP, Microservice Architecture, MVC, SDLC, Scrum, Github, MS Word/ PPT/ Excel, Adobe
 
 ## 🏆 Certifications & Achievements:
-Machine Learning with Python
-Microsoft Certified - Azure Fundamentals
-Best Employee of the Year(2023) at Deloitte Consulting Pvt. Ltd
-Best Social Impact Project at Smart India Hackathon
+- Machine Learning with Python
+- Microsoft Certified - Azure Fundamentals
+- Best Employee of the Year(2023) at Deloitte Consulting Pvt. Ltd
+- Best Social Impact Project at Smart India Hackathon
 
 
 Let’s collaborate and build something extraordinary! 🚀
