@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4c6fcbb3-1d8b-4f3f-9bb7-1cf2c1cfd92c)### Hi there 👋 I'm Dedeepya Yarlagadda
+### Hi there 👋 I'm Dedeepya Yarlagadda
 
 **Dedepya/Dedepya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
