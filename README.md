@@ -1,8 +1,7 @@
-### Hi there 👋 I'm Dedeepya Yarlagadda
+![image](https://github.com/user-attachments/assets/4c6fcbb3-1d8b-4f3f-9bb7-1cf2c1cfd92c)### Hi there 👋 I'm Dedeepya Yarlagadda
 
 **Dedepya/Dedepya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -24,9 +23,9 @@ I'm a passionate software engineer and a Master's student in Computer Science at
 - Delivering efficient database solutions using MySQL, PostgreSQL, and SQL Server.
 
 ## 🚀 Current Focus:
-Developing advanced projects in React, Next.js, Java Spring Boot and Android.
-Diving deeper into AI technologies like LLMs, LLM agents and NLP techniques.
-Working on my Master’s project to build a website and mobile app for Crop predictive analysis.
+- Developing advanced projects in React, Java Spring Boot.
+- Diving deeper into AI technologies like LLMs, LLM agents and NLP techniques.
+- Working on my Master’s thesis to build a model and website for Fake News Detection.
 
 ## 📚 I'm Learning:
 Architecting cloud-based solutions using AWS and Azure for enhanced scalability and performance.
@@ -34,23 +33,20 @@ Advanced concepts in Machine Learning and AI.
 Swift and React Native for cross-platform mobile app development.
 
 ## 🌐 Connect with Me:
-LinkedIn
+ [LinkedIn](https://www.linkedin.com/in/dedeepya-yarlagadda-45a29a18b)
+
 
 ## 🛠️ Tech Stack:
-Programming Languages: Java, Python, C++, JavaScript, Swift, PHP, R
-Web Development: React.js, Node.js, Redux, HTML5, CSS3, Bootstrap
-Mobile Development: Android, Swift, React Native
-Database: MySQL, PostgreSQL, MongoDB, SQLite
-Tools: Git, Docker, Power BI, Tableau, Postman, JIRA
-Cloud Platforms: AWS, Google Cloud, Azure
+Programming Languages: C# , C, C++, HTML, CSS, Java, Python, JavaScript, PHP, TypeScript, R
+Frameworks: ASP .NET, Bootstrap, AngularJS, ReactJS, NodeJS, Spring Boot, Pandas, NumPy, OpenCV, Flask, PyTorch, UI/UX
+Database and Tools: SQL, SQL Server, Mongo DB, Git, Docker, Kubernetes, Visual Studio, Postman, Microsoft Azure, SQLite
+Technologies & Software: Jira, AWS, GCP, Microservice Architecture, MVC, SDLC, Scrum, Github, MS Word/ PPT/ Excel, Adobe
 
 ## 🏆 Certifications & Achievements:
 Machine Learning with Python
-AWS Cloud Storage and Data Management
-Microsoft Azure Fundamentals
-SAIR 2024 Conference Presenter on NLP and k-means Clustering
+Microsoft Certified - Azure Fundamentals
+Best Employee of the Year(2023) at Deloitte Consulting Pvt. Ltd
+Best Social Impact Project at Smart India Hackathon
 
-## ⚡ Fun Fact:
-I’m a software developer who loves cooking, playing chess, and exploring new technologies. Whether it's creating delicious recipes or writing clean, efficient code, I bring the same passion to everything I do.
 
 Let’s collaborate and build something extraordinary! 🚀
